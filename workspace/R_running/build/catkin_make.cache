@@ -1,0 +1,2 @@
+
+-DCMAKE_BUILD_TYPE=Debug -DCATKIN_DEVEL_PREFIX=/media/azure/Workspace/ROS_workspace/ROS_workspace-dylan/workspace/R_running/devel -DCMAKE_INSTALL_PREFIX=/media/azure/Workspace/ROS_workspace/ROS_workspace-dylan/workspace/R_running/install -G Unix Makefiles
